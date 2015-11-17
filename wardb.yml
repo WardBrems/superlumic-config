@@ -17,11 +17,8 @@
         - firefox
         - integrity
         - skype
-        - virtualbox
-        - vagrant
         - lastpass
         - unrarx
-        - integrity
         - mysqlworkbench
         - sketch
     - name: create ssh directory
@@ -60,7 +57,7 @@
     - profile-developer
 
   vars:
-    - computername: nemo
+    - computername: sushi
     - git_user_name: Ward Brems
     - git_user_email: ward.brems@kunstmaan.be
     - sublime_packages:
